@@ -1,2 +1,13 @@
 build
 .venv
+
+.mypy_cache
+.pytest_cache
+.coverage
+.ruff_cache
+
+__pycache__
+.env*
+.flaskenv*
+!.env.project
+!.env.vault

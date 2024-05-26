@@ -1,4 +1,4 @@
-from candle import Tensor
+from src.tensor import Tensor
 import numpy as np
 
 
